@@ -23,7 +23,7 @@ YTLitePlus_FRAMEWORKS = UIKit Security
 
 include $(THEOS)/makefiles/common.mk
 include $(THEOS_MAKE_PATH)/tweak.mk
-SUBPROJECTS += Tweaks/Alderis Tweaks/iSponsorBlock Tweaks/YTUHD Tweaks/YouPiP Tweaks/Return-YouTube-Dislikes Tweaks/YTABConfig Tweaks/YouMute Tweaks/YTVideoOverlay Tweaks/YouQuality Tweaks/YouLoop
+SUBPROJECTS += Tweaks/Alderis Tweaks/iSponsorBlock Tweaks/YTUHD Tweaks/YouPiP Tweaks/Return-YouTube-Dislikes Tweaks/YTABConfig Tweaks/YouMute Tweaks/YTVideoOverlay Tweaks/YouQuality Tweaks/YouLoop Tweaks/FLEXManager
 include $(THEOS_MAKE_PATH)/aggregate.mk
 
 YTLITE_PATH = Tweaks/YTLite
